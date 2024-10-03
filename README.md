@@ -1,3 +1,4 @@
+```
 HATFD1005 
 Longest Palindromic Substring 
 Write a program to find the longest palindromic substring in a given string without using any built-in substring or reverse functions. For example, for input "babad", the output should be "bab" or "aba". 
@@ -49,6 +50,5 @@ int main() {
     printf("Longest palindromic substring is : %s", result);
     
 }
-
-Output:
-![Screenshot 2024-10-02 114501](https://github.com/user-attachments/assets/7043a4a7-532b-4bab-80ce-f74ab8b3da4c)
+```
+![Screenshot 2024-10-02 114501](https://github.com/user-attachments/assets/0fa96899-3249-4803-bec8-ab70f7c20227)
