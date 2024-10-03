@@ -51,5 +51,4 @@ int main() {
 }
 
 Output:
- ![Screenshot 2024-10-03 213216](https://github.com/user-attachments/assets/74c7e9dc-38b6-491f-a1ef-f21e8608a016)
-
+![Screenshot 2024-10-02 114501](https://github.com/user-attachments/assets/7043a4a7-532b-4bab-80ce-f74ab8b3da4c)
